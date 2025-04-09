@@ -1,4 +1,4 @@
-package ru.paramonova.AutoTestsApp;
+package ru.paramonova.autoTestsApp;
 
 import org.junit.Test;
 
