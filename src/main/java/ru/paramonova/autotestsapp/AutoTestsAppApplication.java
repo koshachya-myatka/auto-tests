@@ -1,4 +1,4 @@
-package ru.paramonova.autoTestsApp;
+package ru.paramonova.autotestsapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

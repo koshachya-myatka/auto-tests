@@ -1,4 +1,4 @@
-package ru.paramonova.autoTestsApp.controllers;
+package ru.paramonova.autotestsapp.controllers;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
